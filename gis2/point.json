@@ -1,0 +1,710 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+              "name": "taman mesjid agung cimahi"
+            },
+            "geometry": {
+              "coordinates": [
+                107.54194501020652,
+                -6.872975885571307
+              ],
+              "type": "Point"
+            },
+            "id": 0
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "alun alun cimahi"
+            },
+            "geometry": {
+              "coordinates": [
+                107.54230940881217,
+                -6.873192443970936
+              ],
+              "type": "Point"
+            },
+            "id": 1
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "dprd kota cimahi"
+            },
+            "geometry": {
+              "coordinates": [
+                107.54236843112164,
+                -6.872369521524135
+              ],
+              "type": "Point"
+            },
+            "id": 2
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "kedai pramuka"
+            },
+            "geometry": {
+              "coordinates": [
+                107.54263531460668,
+                -6.872955503598618
+              ],
+              "type": "Point"
+            },
+            "id": 3
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "masjid agung cimahi"
+            },
+            "geometry": {
+              "coordinates": [
+                107.5416088396617,
+                -6.872840854988695
+              ],
+              "type": "Point"
+            },
+            "id": 4
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "ramayana cimahi"
+            },
+            "geometry": {
+              "coordinates": [
+                107.54314855207974,
+                -6.872919835144529
+              ],
+              "type": "Point"
+            },
+            "id": 5
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "puskesmas cimahi tengah"
+            },
+            "geometry": {
+              "coordinates": [
+                107.5420551822296,
+                -6.872337423139996
+              ],
+              "type": "Point"
+            },
+            "id": 6
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "sdn ciman 1"
+            },
+            "geometry": {
+              "coordinates": [
+                107.54297914804499,
+                -6.872016348170106
+              ],
+              "type": "Point"
+            },
+            "id": 7
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "sdn ciman 5"
+            },
+            "geometry": {
+              "coordinates": [
+                107.54270811726798,
+                -6.871777842135899
+              ],
+              "type": "Point"
+            },
+            "id": 8
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "sma 5 cimahi"
+            },
+            "geometry": {
+              "coordinates": [
+                107.54415485580074,
+                -6.871829684499687
+              ],
+              "type": "Point"
+            },
+            "id": 9
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "lap pasar malam cimahi"
+            },
+            "geometry": {
+              "coordinates": [
+                107.54464892605114,
+                -6.873082178204186
+              ],
+              "type": "Point"
+            },
+            "id": 10
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "dinas perekonomian cimahi"
+            },
+            "geometry": {
+              "coordinates": [
+                107.5427925654152,
+                -6.872591658679482
+              ],
+              "type": "Point"
+            },
+            "id": 11
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "sman 5 cimahi"
+            },
+            "geometry": {
+              "coordinates": [
+                107.5445889413017,
+                -6.878528390865682
+              ],
+              "type": "Point"
+            },
+            "id": 12
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "smpn 6 cimahi"
+            },
+            "geometry": {
+              "coordinates": [
+                107.54524688977932,
+                -6.877357272262927
+              ],
+              "type": "Point"
+            },
+            "id": 13
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "smpn 1 cimahi"
+            },
+            "geometry": {
+              "coordinates": [
+                107.54413307699866,
+                -6.876872027055825
+              ],
+              "type": "Point"
+            },
+            "id": 14
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "lab klinik prodia cimahi"
+            },
+            "geometry": {
+              "coordinates": [
+                107.54426799948862,
+                -6.875202121605554
+              ],
+              "type": "Point"
+            },
+            "id": 15
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "bank bca"
+            },
+            "geometry": {
+              "coordinates": [
+                107.54375127063525,
+                -6.874897824092571
+              ],
+              "type": "Point"
+            },
+            "id": 16
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "rsud cibabat"
+            },
+            "geometry": {
+              "coordinates": [
+                107.55130666071551,
+                -6.878669800341797
+              ],
+              "type": "Point"
+            },
+            "id": 17
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "rs cibabat cimahi"
+            },
+            "geometry": {
+              "coordinates": [
+                107.55090270115807,
+                -6.8791608839915455
+              ],
+              "type": "Point"
+            },
+            "id": 18
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "klinik luhur medika"
+            },
+            "geometry": {
+              "coordinates": [
+                107.54975677506798,
+                -6.877802217985362
+              ],
+              "type": "Point"
+            },
+            "id": 19
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "burger king"
+            },
+            "geometry": {
+              "coordinates": [
+                107.5500205853914,
+                -6.878497920944369
+              ],
+              "type": "Point"
+            },
+            "id": 20
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "smk  pgri 1 cimahi"
+            },
+            "geometry": {
+              "coordinates": [
+                107.54766180858638,
+                -6.87059130417795
+              ],
+              "type": "Point"
+            },
+            "id": 21
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "borma"
+            },
+            "geometry": {
+              "coordinates": [
+                107.55361558887068,
+                -6.872908239671517
+              ],
+              "type": "Point"
+            },
+            "id": 22
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "temu kita coffee"
+            },
+            "geometry": {
+              "coordinates": [
+                107.55316375863498,
+                -6.8722374940931985
+              ],
+              "type": "Point"
+            },
+            "id": 23
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "pertamina"
+            },
+            "geometry": {
+              "coordinates": [
+                107.55326735239902,
+                -6.872705459033881
+              ],
+              "type": "Point"
+            },
+            "id": 24
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "tk dan sd nur al rahman"
+            },
+            "geometry": {
+              "coordinates": [
+                107.55195120596989,
+                -6.872665208515073
+              ],
+              "type": "Point"
+            },
+            "id": 25
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "sman 1 cimahi"
+            },
+            "geometry": {
+              "coordinates": [
+                107.54384033425833,
+                -6.870580783842385
+              ],
+              "type": "Point"
+            },
+            "id": 26
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "pasar atas kota cimahi"
+            },
+            "geometry": {
+              "coordinates": [
+                107.54262254529846,
+                -6.869213983114136
+              ],
+              "type": "Point"
+            },
+            "id": 27
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "rs gigi dan mulut pendidikan unjani"
+            },
+            "geometry": {
+              "coordinates": [
+                107.54474189673181,
+                -6.86860678856074
+              ],
+              "type": "Point"
+            },
+            "id": 28
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "sdk bpk penabur cimahi"
+            },
+            "geometry": {
+              "coordinates": [
+                107.54646357928078,
+                -6.866981018095174
+              ],
+              "type": "Point"
+            },
+            "id": 29
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "bimbel tridaya cimahi"
+            },
+            "geometry": {
+              "coordinates": [
+                107.54618503595054,
+                -6.867600238411143
+              ],
+              "type": "Point"
+            },
+            "id": 30
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "smk sangkuriang cimahi"
+            },
+            "geometry": {
+              "coordinates": [
+                107.54011885501814,
+                -6.86518339024785
+              ],
+              "type": "Point"
+            },
+            "id": 31
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "klinik dr nur"
+            },
+            "geometry": {
+              "coordinates": [
+                107.53864968460857,
+                -6.865912708035495
+              ],
+              "type": "Point"
+            },
+            "id": 32
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "pertamina"
+            },
+            "geometry": {
+              "coordinates": [
+                107.53759259858276,
+                -6.866375201664553
+              ],
+              "type": "Point"
+            },
+            "id": 33
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "mc donalds"
+            },
+            "geometry": {
+              "coordinates": [
+                107.53461842434024,
+                -6.869488127848001
+              ],
+              "type": "Point"
+            },
+            "id": 34
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "klinik cimahi sehat"
+            },
+            "geometry": {
+              "coordinates": [
+                107.5384524660488,
+                -6.873223356283916
+              ],
+              "type": "Point"
+            },
+            "id": 35
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "carrefour"
+            },
+            "geometry": {
+              "coordinates": [
+                107.53304161893152,
+                -6.869896997684492
+              ],
+              "type": "Point"
+            },
+            "id": 36
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "borma"
+            },
+            "geometry": {
+              "coordinates": [
+                107.53176953235908,
+                -6.8682960681391165
+              ],
+              "type": "Point"
+            },
+            "id": 37
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "puskesmas padasuka"
+            },
+            "geometry": {
+              "coordinates": [
+                107.52802493948622,
+                -6.873561327245568
+              ],
+              "type": "Point"
+            },
+            "id": 38
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "cimahi mall"
+            },
+            "geometry": {
+              "coordinates": [
+                107.53929261476259,
+                -6.876449802066546
+              ],
+              "type": "Point"
+            },
+            "id": 39
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "rs dustira"
+            },
+            "geometry": {
+              "coordinates": [
+                107.53402501454582,
+                -6.886429868017302
+              ],
+              "type": "Point"
+            },
+            "id": 40
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "alfamart"
+            },
+            "geometry": {
+              "coordinates": [
+                107.53419496325029,
+                -6.8888160824244125
+              ],
+              "type": "Point"
+            },
+            "id": 41
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "alfamart"
+            },
+            "geometry": {
+              "coordinates": [
+                107.53446202550117,
+                -6.884549811849823
+              ],
+              "type": "Point"
+            },
+            "id": 42
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "unjani"
+            },
+            "geometry": {
+              "coordinates": [
+                107.52606171228354,
+                -6.888165293842164
+              ],
+              "type": "Point"
+            },
+            "id": 43
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "lapangan golf brigif 15 kujang"
+            },
+            "geometry": {
+              "coordinates": [
+                107.52538317054922,
+                -6.8938138770487
+              ],
+              "type": "Point"
+            },
+            "id": 44
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "rs kasih bunda"
+            },
+            "geometry": {
+              "coordinates": [
+                107.5471677798281,
+                -6.900291845015346
+              ],
+              "type": "Point"
+            },
+            "id": 45
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "rs mitra anugrah estari cimahi"
+            },
+            "geometry": {
+              "coordinates": [
+                107.5556981012084,
+                -6.900764193287159
+              ],
+              "type": "Point"
+            },
+            "id": 46
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "pasar cimindi cimahi"
+            },
+            "geometry": {
+              "coordinates": [
+                107.55619090311103,
+                -6.897984262288759
+              ],
+              "type": "Point"
+            },
+            "id": 47
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "oyo 617 sukaraja residence"
+            },
+            "geometry": {
+              "coordinates": [
+                107.57348936229408,
+                -6.89396926543273
+              ],
+              "type": "Point"
+            },
+            "id": 48
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "home mr syarif bastaman"
+            },
+            "geometry": {
+              "coordinates": [
+                107.56771185379125,
+                -6.89572372291714
+              ],
+              "type": "Point"
+            },
+            "id": 49
+          }
+
+
+
+
+
+    ] 
+}
