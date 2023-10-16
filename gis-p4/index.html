@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>TUGAS GIS 3</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+  </head>
+  
+<body>
+<style>
+  .shintaopenlayer{
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid black;
+    border: transparent;
+    width: 200px;
+    background-color: rgb(126, 185, 236);
+    color: white;
+    border-radius: 30px;
+    text-align: center;
+  }
+  .shintaopenlayer:hover{
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid black;
+    border: transparent;
+    width: 200px;
+    background-color: rgb(255, 138, 20);
+    color: white;
+    border-radius: 30px;
+    text-align: center;
+    box-shadow: 5px 5px 5px 0 rgba(0, 0, 0, 0.5);
+  }
+  .shintaopenlayer a{
+    color: white;
+    text-decoration: none;
+  }
+</style>
+
+<div class="shintaopenlayer">
+  <a href="./giss3/index.html">Open Layer</a>
+</div>
+
+<table class="table">
+  <tbody id="lokasi">
+    <tr>
+      <th>Type</th>
+      <th>Nama</th>
+      <th>Koordinat</th>
+    </tr>
+  </tbody>
+</table>
+
+<script type="module" src="./get.js"></script>
+
+</body>
+</html>
