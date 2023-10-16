@@ -1,0 +1,1079 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+          {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+              "coordinates": [
+                [
+                  107.54325289938868,
+                  -6.872270888909341
+                ],
+                [
+                  107.5424052170298,
+                  -6.873645844670946
+                ]
+              ],
+              "type": "LineString"
+            },
+            "id": 101
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "jalan kaum"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  107.5427425584781,
+                  -6.872972999120037
+                ],
+                [
+                  107.54212218983707,
+                  -6.872578587521289
+                ]
+              ],
+              "type": "LineString"
+            },
+            "id": 102
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "jalan wiganda sasmita"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  107.5435763190016,
+                  -6.874273525420506
+                ],
+                [
+                  107.54447710697889,
+                  -6.872693570926515
+                ]
+              ],
+              "type": "LineString"
+            },
+            "id": 103
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "gang m. sastra"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  107.54442134391303,
+                  -6.873779524040344
+                ],
+                [
+                  107.5439323447273,
+                  -6.874503491405207
+                ]
+              ],
+              "type": "LineString"
+            },
+            "id": 104
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "jalan raya cimahi"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  107.54247821556459,
+                  -6.873736937690893
+                ],
+                [
+                  107.54372645033152,
+                  -6.874486456891191
+                ]
+              ],
+              "type": "LineString"
+            },
+            "id": 105
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "jalan kolonel matsuri"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  107.54146589926222,
+                  -6.872195307280265
+                ],
+                [
+                  107.5412600048665,
+                  -6.872910759773248
+                ]
+              ],
+              "type": "LineString"
+            },
+            "id": 106
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "gang warga asih 3"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  107.54065090061727,
+                  -6.872808552339734
+                ],
+                [
+                  107.54035063795743,
+                  -6.873374951587863
+                ]
+              ],
+              "type": "LineString"
+            },
+            "id": 107
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "jalan ubed"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  107.54023053289399,
+                  -6.872565809598115
+                ],
+                [
+                  107.53993455970112,
+                  -6.873149243697995
+                ]
+              ],
+              "type": "LineString"
+            },
+            "id": 108
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "jalan asem barat"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  107.5410290788904,
+                  -6.874092101625777
+                ],
+                [
+                  107.54154810434255,
+                  -6.874377429883793
+                ]
+              ],
+              "type": "LineString"
+            },
+            "id": 109
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "jalan asem timur"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  107.5416799275933,
+                  -6.87445390263882
+                ],
+                [
+                  107.54283808356314,
+                  -6.875033075797134
+                ]
+              ],
+              "type": "LineString"
+            },
+            "id": 110
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "jalan sasmita"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  107.54333995114968,
+                  -6.87459443736671
+                ],
+                [
+                  107.54295818862664,
+                  -6.875522817254634
+                ]
+              ],
+              "type": "LineString"
+            },
+            "id": 111
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "jalan lurah"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  107.54092927094598,
+                  -6.874632765012876
+                ],
+                [
+                  107.5429195834285,
+                  -6.8756292827220165
+                ]
+              ],
+              "type": "LineString"
+            },
+            "id": 112
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "jalan bapak hamid"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  107.54019385221068,
+                  -6.8751748332862235
+                ],
+                [
+                  107.54088445632527,
+                  -6.875536816043692
+                ]
+              ],
+              "type": "LineString"
+            },
+            "id": 113
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "gang saaran"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  107.54082440379455,
+                  -6.875741229714237
+                ],
+                [
+                  107.54144637644453,
+                  -6.876064884512672
+                ],
+                [
+                  107.54162224457389,
+                  -6.8760393328259255
+                ],
+                [
+                  107.54227424349034,
+                  -6.876414090758573
+                ]
+              ],
+              "type": "LineString"
+            },
+            "id": 114
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "gang m. ardijo"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  107.54501928486769,
+                  -6.874545686502941
+                ],
+                [
+                  107.5446889959436,
+                  -6.875048204333353
+                ]
+              ],
+              "type": "LineString"
+            },
+            "id": 115
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "jalan pabrik aci"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  107.54210953043332,
+                  -6.870161990441176
+                ],
+                [
+                  107.54329816146935,
+                  -6.8707641791656755
+                ]
+              ],
+              "type": "LineString"
+            },
+            "id": 116
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "gang pacinan"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  107.54390959718774,
+                  -6.8706621956445275
+                ],
+                [
+                  107.54400742690154,
+                  -6.871798582210303
+                ]
+              ],
+              "type": "LineString"
+            },
+            "id": 117
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "gang sudarma"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  107.54478028164914,
+                  -6.870074575885056
+                ],
+                [
+                  107.54490746027994,
+                  -6.870560212102603
+                ]
+              ],
+              "type": "LineString"
+            },
+            "id": 118
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "gang masigit 1"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  107.54493191770842,
+                  -6.870657339286595
+                ],
+                [
+                  107.54500528999375,
+                  -6.8713323726656625
+                ]
+              ],
+              "type": "LineString"
+            },
+            "id": 119
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "jlaan terusan"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  107.54509237011888,
+                  -6.871431462748092
+                ],
+                [
+                  107.54755253141826,
+                  -6.873041422271797
+                ]
+              ],
+              "type": "LineString"
+            },
+            "id": 120
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "jlaan kotamas indah"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  107.54084412091788,
+                  -6.869025693499609
+                ],
+                [
+                  107.54122023580254,
+                  -6.869301163639307
+                ],
+                [
+                  107.54048033766838,
+                  -6.870250004010515
+                ],
+                [
+                  107.53984525843651,
+                  -6.87059893192783
+                ]
+              ],
+              "type": "LineString"
+            },
+            "id": 121
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "gang marga bhakti 5"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  107.54260351045161,
+                  -6.86880628772461
+                ],
+                [
+                  107.54293029879426,
+                  -6.868855260227917
+                ],
+                [
+                  107.54412646744544,
+                  -6.869418443655661
+                ]
+              ],
+              "type": "LineString"
+            },
+            "id": 122
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "jlana kota mas raya"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  107.5424247024269,
+                  -6.867802349868057
+                ],
+                [
+                  107.54142583994559,
+                  -6.867985997118893
+                ],
+                [
+                  107.54024816874795,
+                  -6.868824651991602
+                ]
+              ],
+              "type": "LineString"
+            },
+            "id": 123
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "gang marga sari 3"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  107.54182476881442,
+                  -6.870802678074284
+                ],
+                [
+                  107.54114516861296,
+                  -6.870609313268787
+                ]
+              ],
+              "type": "LineString"
+            },
+            "id": 124
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "margasari 1"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  107.54073492214883,
+                  -6.870802678074284
+                ],
+                [
+                  107.54049043183369,
+                  -6.871107124628111
+                ]
+              ],
+              "type": "LineString"
+            },
+            "id": 125
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "jalan sismangaraja"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  107.5390616999614,
+                  -6.871816465008095
+                ],
+                [
+                  107.53776512979584,
+                  -6.873749541784562
+                ]
+              ],
+              "type": "LineString"
+            },
+            "id": 126
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "gang karya muda 2"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  107.53583520653132,
+                  -6.872150172413939
+                ],
+                [
+                  107.53607859000897,
+                  -6.872343480309141
+                ],
+                [
+                  107.5367600637486,
+                  -6.872769636074636
+                ],
+                [
+                  107.5373132080154,
+                  -6.873085957632185
+                ],
+                [
+                  107.53787520259345,
+                  -6.87341985238163
+                ]
+              ],
+              "type": "LineString"
+            },
+            "id": 127
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "gang kuburan"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  107.53519889827913,
+                  -6.873185684506041
+                ],
+                [
+                  107.53739662920736,
+                  -6.874204658993307
+                ]
+              ],
+              "type": "LineString"
+            },
+            "id": 128
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "gang bah iding III"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  107.53820829239856,
+                  -6.874170438513431
+                ],
+                [
+                  107.53810160271297,
+                  -6.8743711341815725
+                ]
+              ],
+              "type": "LineString"
+            },
+            "id": 129
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "jalan textil"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  107.53945024831182,
+                  -6.874851423588467
+                ],
+                [
+                  107.53826161727585,
+                  -6.877129030264442
+                ]
+              ],
+              "type": "LineString"
+            },
+            "id": 130
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "jalan gandawijaya"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  107.54121884777425,
+                  -6.87489143464731
+                ],
+                [
+                  107.54042345727953,
+                  -6.876525868305947
+                ],
+                [
+                  107.54013366384237,
+                  -6.877829738315938
+                ]
+              ],
+              "type": "LineString"
+            },
+            "id": 131
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "gang sempit"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  107.5393155221928,
+                  -6.8776844513621995
+                ],
+                [
+                  107.54001013682631,
+                  -6.877961838813434
+                ]
+              ],
+              "type": "LineString"
+            },
+            "id": 132
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "jalan gedung empai"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  107.5414294999353,
+                  -6.8789732494295635
+                ],
+                [
+                  107.54061846944074,
+                  -6.879416297551913
+                ]
+              ],
+              "type": "LineString"
+            },
+            "id": 133
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "jalan simpang"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  107.54049817305071,
+                  -6.878341423565786
+                ],
+                [
+                  107.54137905306192,
+                  -6.878796030064535
+                ],
+                [
+                  107.54154979632358,
+                  -6.8790233331507125
+                ],
+                [
+                  107.54239575157737,
+                  -6.879385476826485
+                ]
+              ],
+              "type": "LineString"
+            },
+            "id": 134
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "jalan gatot subroto"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  107.54460342472714,
+                  -6.878174344768098
+                ],
+                [
+                  107.54334631288953,
+                  -6.879917746765514
+                ],
+                [
+                  107.54333652991954,
+                  -6.880665610841135
+                ]
+              ],
+              "type": "LineString"
+            },
+            "id": 135
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "jalan haji tajudin"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  107.54343110922667,
+                  -6.877897520425279
+                ],
+                [
+                  107.54237943979138,
+                  -6.877436173152418
+                ]
+              ],
+              "type": "LineString"
+            },
+            "id": 136
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "gang desa"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  107.54357153757348,
+                  -6.876569048657757
+                ],
+                [
+                  107.54300412522582,
+                  -6.876267958067999
+                ]
+              ],
+              "type": "LineString"
+            },
+            "id": 137
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "gang kebon terong"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  107.54317696317673,
+                  -6.875865744725317
+                ],
+                [
+                  107.5428968184861,
+                  -6.876333369408144
+                ],
+                [
+                  107.54266593000602,
+                  -6.876736809941519
+                ],
+                [
+                  107.54239809936735,
+                  -6.877341970098584
+                ]
+              ],
+              "type": "LineString"
+            },
+            "id": 138
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "gang dwikora"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  107.54357571783248,
+                  -6.875801522790496
+                ],
+                [
+                  107.54349857280602,
+                  -6.876041070798237
+                ]
+              ],
+              "type": "LineString"
+            },
+            "id": 139
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "gang lestari"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  107.54702239017979,
+                  -6.872783775887498
+                ],
+                [
+                  107.54660642568837,
+                  -6.87346474562672
+                ]
+              ],
+              "type": "LineString"
+            },
+            "id": 140
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "negla sari"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  107.54599575441694,
+                  -6.8731484243213
+                ],
+                [
+                  107.5457877721712,
+                  -6.87349110572616
+                ]
+              ],
+              "type": "LineString"
+            },
+            "id": 141
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "jalan margalutyu"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  107.5475715142021,
+                  -6.873141778853466
+                ],
+                [
+                  107.54700813647571,
+                  -6.8739724648191185
+                ],
+                [
+                  107.54642244676228,
+                  -6.874553944131321
+                ],
+                [
+                  107.5464559147461,
+                  -6.875030202846631
+                ],
+                [
+                  107.54597062898154,
+                  -6.875744590025235
+                ]
+              ],
+              "type": "LineString"
+            },
+            "id": 142
+          },
+          {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+              "coordinates": [
+                [
+                  107.54575818690842,
+                  -6.875463946644501
+                ],
+                [
+                  107.54563708719257,
+                  -6.875641057931404
+                ]
+              ],
+              "type": "LineString"
+            },
+            "id": 143
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "gang listrik"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  107.55139963189879,
+                  -6.874978156512967
+                ],
+                [
+                  107.55201438589864,
+                  -6.875709250914127
+                ]
+              ],
+              "type": "LineString"
+            },
+            "id": 144
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "gang kananga"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  107.55067310444605,
+                  -6.87597361959449
+                ],
+                [
+                  107.55140291935362,
+                  -6.876401178507592
+                ],
+                [
+                  107.55132402044421,
+                  -6.876616589721991
+                ]
+              ],
+              "type": "LineString"
+            },
+            "id": 145
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "jalan nusantara IX"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  107.5532116424655,
+                  -6.8755577046483864
+                ],
+                [
+                  107.55324122955733,
+                  -6.876076650603679
+                ]
+              ],
+              "type": "LineString"
+            },
+            "id": 146
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "jalan nusantara VI"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  107.55386912561642,
+                  -6.874850767800481
+                ],
+                [
+                  107.55338258234531,
+                  -6.875333812570517
+                ]
+              ],
+              "type": "LineString"
+            },
+            "id": 147
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "jalan nusantara V"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  107.55367845325412,
+                  -6.874681049250725
+                ],
+                [
+                  107.55313602325407,
+                  -6.875180413271224
+                ]
+              ],
+              "type": "LineString"
+            },
+            "id": 148
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "gang muhali"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  107.55141249086364,
+                  -6.873557452361965
+                ],
+                [
+                  107.55208641906324,
+                  -6.873906681705009
+                ]
+              ],
+              "type": "LineString"
+            },
+            "id": 149
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "gang umri"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  107.5512612679737,
+                  -6.873883834935739
+                ],
+                [
+                  107.55181027288177,
+                  -6.874282021334892
+                ]
+              ],
+              "type": "LineString"
+            },
+            "id": 150
+          }
+
+     
+    ] 
+}

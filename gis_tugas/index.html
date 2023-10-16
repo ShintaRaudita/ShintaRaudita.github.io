@@ -1,60 +1,56 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>TUGAS GIS 2</title>
-    <link rel="stylesheet" href="https://openlayers.org/en/v4.6.5/css/ol.css" type="text/css">
-    <link rel="stylesheet" href="style.css">
-</head>
+<html>
+  <head>
+    <title>TUGAS GIS 3</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+  </head>
+  
 <body>
-    <div id="map" class="map"></div>
-    <h1>Geographic Information System</h1>
-    <h2>NPM: 1214063</h2>
-    <h2>Nama : Shinta Raudita Octora Damayanti</h2>
-    <h2>Kelas : 3C</h2>
-    <div id="info-table">
-        <div class="point-table">
-            <h1>Data Poin</h1>
-            <table id="pointTable" border="1">
-                <thead>
-                    <tr>
-                        <th>Nama</th>
-                        <th>Koordinat</th>
-                        <th>Type</th>
-                    </tr>
-                </thead>
-                <tbody></tbody>
-            </table>
-        </div>
-        <div class="polygon-table">
-            <h1>Data Polygon</h1>
-            <table id="polygonTable" border="1">
-                <thead>
-                    <tr>
-                        <th>Nama</th>
-                        <th>Koordinat</th>
-                        <th>Type</th>
-                    </tr>
-                </thead>
-                <tbody></tbody>
-            </table>
-        </div>
-        <div class="polyline-table">
-            <h1>Data Polyline</h1>
-            <table id="polylineTable" border="1">
-                <thead>
-                    <tr>
-                        <th>Nama</th>
-                        <th>Koordinat</th>
-                        <th>Type</th>
-                    </tr>
-                </thead>
-                <tbody></tbody>
-            </table>
-        </div>
-    </div>
-    <script src="https://openlayers.org/en/v4.6.5/build/ol.js"></script>
-    <script src="script.js"></script>
+<style>
+  .shintaopenlayer{
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid black;
+    border: transparent;
+    width: 200px;
+    background-color: rgb(126, 185, 236);
+    color: white;
+    border-radius: 30px;
+    text-align: center;
+  }
+  .shintaopenlayer:hover{
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid black;
+    border: transparent;
+    width: 200px;
+    background-color: rgb(255, 138, 20);
+    color: white;
+    border-radius: 30px;
+    text-align: center;
+    box-shadow: 5px 5px 5px 0 rgba(0, 0, 0, 0.5);
+  }
+  .shintaopenlayer a{
+    color: white;
+    text-decoration: none;
+  }
+</style>
+
+<div class="shintaopenlayer">
+  <a href="./giss3/index.html">Open Layer</a>
+</div>
+
+<table class="table">
+  <tbody id="lokasi">
+    <tr>
+      <th>Type</th>
+      <th>Nama</th>
+      <th>Koordinat</th>
+    </tr>
+  </tbody>
+</table>
+
+<script type="module" src="./get.js"></script>
+
 </body>
 </html>
