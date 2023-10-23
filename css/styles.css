@@ -83,11 +83,16 @@ textarea {
   outline-color: none !important;
 }
 
+/* /*
+MAP
 #map {
   width: 100% !important;
   height: 400px;
   margin-bottom: 50px;
 }
+
+*/
+
 
 .footer-main {
   background-color: white !important;
