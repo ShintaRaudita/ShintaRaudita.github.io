@@ -90,8 +90,13 @@ MAP
   height: 400px;
   margin-bottom: 50px;
 }
-
 */
+
+#map {
+  width: 5% !important;
+  height: 5px;
+  margin-bottom: 50px;
+}
 
 
 .footer-main {
