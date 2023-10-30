@@ -12,3 +12,9 @@ Tugas GIS 6
 https://shintaraudita.github.io/swagger/
 <br>
 Tugas GIS 7
+
+<br>
+Tugas GIS 8
+
+<br>
+Tugas GIS 9
