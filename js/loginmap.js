@@ -48,7 +48,7 @@ document.addEventListener("DOMContentLoaded", function() {
                 console.log(token);
 
                 // Redirect ke halaman dashboard setelah login berhasil
-                window.location.href = "/fruits.html";
+                window.location.href = "../gis-p4/index.html";
             } else {
                 // Pengolahan respons jika login gagal
                 errorMessage.textContent = "Userr not found"; // pesan kesalahan
