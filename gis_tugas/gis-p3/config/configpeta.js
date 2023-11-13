@@ -7,9 +7,10 @@ import {fromLonLat} from 'https://cdn.skypack.dev/ol/proj.js';
 import Overlay from 'https://cdn.skypack.dev/ol/Overlay.js';
 import {container} from 'https://jscroot.github.io/element/croot.js';
 
-const attributions = '<a href="https://petapedia.github.io/" target="_blank">&copy; PetaPedia Indonesia</a> ';
+const attributions = '<a href="https://befous.github.io/" target="_blank">&copy; May Indonesia</a> ';
 
-const place = [107.5451098, -6.8739993];
+const place = [107.59313463070288,
+  -6.810037908789226];
 
 export let idmarker = {id:1};
 
@@ -21,7 +22,7 @@ const basemap = new TileLayer({
 
 const defaultstartmap = new View({
   center: fromLonLat(place),
-  zoom: 17,
+  zoom: 14.5,
 });
 
 export const overlay = new Overlay({
@@ -50,4 +51,3 @@ export let map = new Map({
   target: 'map',
   view: defaultstartmap,
 });
-

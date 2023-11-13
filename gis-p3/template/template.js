@@ -1,6 +1,5 @@
 export let URLGeoJson = "https://us-central1-bustling-walker-340203.cloudfunctions.net/function-shinta";
-//export let urlPostGCF = "https://asia-southeast2-vivid-vent-401501.cloudfunctions.net/test-post";
-export let urlPostGCF = "https://eo9pjoaxqtvedgg.m.pipedream.net";
+export let URLPostPoint = "https://asia-southeast2-befous.cloudfunctions.net/Befous-MembuatGeojsonPoint";
 export let tableTag="tr";
 export let tableRowClass="content is-small";
 export let tableTemplate=`
@@ -11,7 +10,4 @@ export let tableTemplate=`
 export const clickpopup = `
 Long : #LONG#<br>
 Lat  : #LAT#<br>
-X   : #X#<br>
-Y   : #Y#<br>
-HDMS : #HDMS#<br>
 `
