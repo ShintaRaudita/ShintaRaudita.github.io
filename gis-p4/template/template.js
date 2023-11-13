@@ -1,7 +1,7 @@
-export let URLGeoJson = "https://us-central1-t-decoder-401501.cloudfunctions.net/function-2";
-export let URLPostPoint = "https://asia-southeast2-t-decoder-401501.cloudfunctions.net/geojsonpoint";
+export let URLGeoJson = "https://us-central1-bustling-walker-340203.cloudfunctions.net/function-shinta";
+export let URLPostPoint = "https://asia-southeast2-northern-eon-401500.cloudfunctions.net/func-geojson";
 export let tableTag="tr";
-export let tableRowClass="content is-small";
+export let tableRowClass="content is-medium";
 export let tableTemplate=`
 <td>#NAME#</td>
 <td >#KORDINAT#</td>

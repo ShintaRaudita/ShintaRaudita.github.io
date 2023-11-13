@@ -70,7 +70,7 @@ export function AddLayerToMAP(geojson){
             if (featureType === 'Polygon') {
                 return new ol.style.Style({
                     stroke: new ol.style.Stroke({
-                        color: 'blue', 
+                        color: 'green', 
                         width: 2
                     })
                 });
@@ -78,7 +78,7 @@ export function AddLayerToMAP(geojson){
                 
                 return new ol.style.Style({
                     stroke: new ol.style.Stroke({
-                        color: 'red', 
+                        color: 'purple', 
                         width: 1.5
                     })
                 });
