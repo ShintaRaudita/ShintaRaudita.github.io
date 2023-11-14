@@ -1,0 +1,83 @@
+openapi: 3.0.3
+info:
+  title: API DOC GIS Shinta - OpenAPI 3.0
+  description: >-
+    Penjelasan informasi yang diperlukan untuk dinilai
+    term of service isi dari link repo dari swagger ini
+  termsOfService: https://ShintaRaudita.github.io/swegger-gis/
+  contact:
+    email: shintaraudita2110@gmail.com
+  license:
+    name: Package Backend
+    url: https://pkg.go.dev/github.com/ShintaRaudita/BEgis
+  version: 1.0.11
+externalDocs:
+  description: Repo GCF
+  url: https://pkg.go.dev/github.com/ShintaRaudita/BEgis
+servers:
+  - url: https://asia-southeast2-northern-eon-401500.cloudfunctions.net
+tags:
+  - name: Create GIS
+    description: Data Geo Spasial
+    externalDocs:
+      description: Deskripsi dan Kode Program
+      url: https://pkg.go.dev/github.com/ShintaRaudita/BEgis
+  - name: auth
+    description: Auth to Access to API
+    externalDocs:
+      description: Deskripsi dan Kode Program
+      url: https://pkg.go.dev/github.com/ShintaRaudita/BEgis
+  - name: user
+    description: Get Token and Authorize
+paths:
+  /authPoin:  # Penambahan endpoint Create GIS
+    post:
+      tags:
+        - Create GIS
+      summary: Create GIS Data
+      description: Add new GIS data
+      operationId: createGIS
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/Peta' # Gunakan skema yang sesuai di sini
+      responses:
+        '201':
+          description: Data successfully created
+        '400':
+          description: Invalid input or request body
+      security:
+        - SECRET:
+            - write:apiKey
+            - read:SECRET
+               
+components:
+  schemas:
+    Peta:
+      type: object
+      properties:
+        type:
+          type: string
+          example: "Feature"
+        properties:
+          type: object
+          properties:
+            name:
+              type: string
+              example: "Nama Locationn"
+        geometry:
+          type: object
+          properties:
+            coordinates:
+              type: array
+              example: [ [133.6, 114.1] ]
+            type:
+              type: string
+              example: "Point"
+  securitySchemes:
+    SECRET:
+      type: apiKey
+      name: SECRET
+      in: header
