@@ -7,7 +7,13 @@ Tugas GIS 4
 https://shintaraudita.github.io/gis-p4/
 <br>
 Tugas GIS 5
+https://shintaraudita.github.io/
+<br>
+https://shintaraudita.github.io/pages/login.html/
+<br>
 https://shintaraudita.github.io/swagger/
+
+
 <br>
 Tugas GIS 6
 -
