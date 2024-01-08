@@ -24,4 +24,4 @@ Tugas GIS 7
 Tugas GIS 8
 
 <br>
-Tugas GIS 9
+Tugas GIS 190
